@@ -1,0 +1,938 @@
+{
+  "accountmanage-ubank.paas.cmbchina.com": {
+    "url": [
+      "https://accountmanage-ubank.paas.cmbchina.com/receipt/login"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "app.cmbchina.com": {
+    "url": [
+      "https://app.cmbchina.com/pevs/pccheck.aspx",
+      "https://app.cmbchina.com/pevs/pcCheck.aspx",
+      "https://app.cmbchina.com/annuityweb/login.aspx",
+      "https://app.cmbchina.com/annuityweb/loginc.aspx",
+      "https://app.cmbchina.com/annuityweb/ajaxpro/ANNUITYWEB.login,AnnuityWeb.ashx",
+      "https://app.cmbchina.com/annuityweb/ajaxpro/converter.ashx",
+      "https://app.cmbchina.com/annuityweb/ajaxpro/ANNUITYWEB.loginc,AnnuityWeb.ashx",
+      "https://app.cmbchina.com/annuityweb/ajaxpro/prototype.ashx",
+      "https://app.cmbchina.com/annuityweb/cmb/cwf.webresource.ashx?d=Y3xDbWIuV2ViLkFwcF9SZXNvdXJjZXMuYXBwbGliLmpz\u0026t=638640599200000000",
+      "https://app.cmbchina.com/annuityweb/ajaxpro/core.ashx",
+      "https://app.cmbchina.com/annuityweb/cmb/cwf.antiflood.ashx?ran=79f5187b9db84babaf4c6abe6f7c2428"
+    ],
+    "login_url": [
+      "https://app.cmbchina.com/annuityweb/login.aspx",
+      "https://app.cmbchina.com/annuityweb/loginc.aspx"
+    ],
+    "count": 11
+  },
+  "big5.cmbchina.com": {
+    "url": [
+      "https://big5.cmbchina.com/gate/big5/www.cmbchina.com/"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "biz.mfb.cmbchina.com": {
+    "url": [
+      "https://biz.mfb.cmbchina.com/CmbBank_MB/UI/Public/MobileBank.aspx",
+      "https://biz.mfb.cmbchina.com/CmbBank_MB/UI/Public/",
+      "https://biz.mfb.cmbchina.com/CmbBank_MB/UI/",
+      "https://biz.mfb.cmbchina.com/CmbBank_MB/UI/Public/NotAllow.aspx",
+      "https://biz.mfb.cmbchina.com/a"
+    ],
+    "login_url": [],
+    "count": 5
+  },
+  "branch.cmbchina.com": {
+    "url": [
+      "http://branch.cmbchina.com/",
+      "http://branch.cmbchina.com/0755.htm",
+      "http://branch.cmbchina.com/0571.htm",
+      "http://branch.cmbchina.com/0010.htm",
+      "http://branch.cmbchina.com/0020.htm",
+      "http://branch.cmbchina.com/0021.htm",
+      "http://branch.cmbchina.com/0027.htm",
+      "http://branch.cmbchina.com/0769.htm",
+      "http://branch.cmbchina.com/0577.htm",
+      "http://branch.cmbchina.com/0757.htm",
+      "http://branch.cmbchina.com/0028.htm",
+      "http://branch.cmbchina.com/0023.htm",
+      "https://branch.cmbchina.com/"
+    ],
+    "login_url": [],
+    "count": 13
+  },
+  "career.cmbchina.com": {
+    "url": [
+      "https://career.cmbchina.com/campus/home",
+      "http://career.cmbchina.com",
+      "http://career.cmbchina.com/",
+      "https://career.cmbchina.com/home",
+      "http://career.cmbchina.com/cmbcareer/",
+      "https://career.cmbchina.com/social/home"
+    ],
+    "login_url": [],
+    "count": 6
+  },
+  "cc.cmbchina.com": {
+    "url": [
+      "http://cc.cmbchina.com/common/schedule.htm",
+      "http://cc.cmbchina.com/financing/",
+      "http://cc.cmbchina.com/card/?WT.mc_id=N17PCGW100AY688100ZH",
+      "http://cc.cmbchina.com/content/loan/eloan.htm",
+      "http://cc.cmbchina.com/notice/",
+      "http://cc.cmbchina.com/content/loan/stepshop.htm",
+      "http://cc.cmbchina.com/content/card/active.htm",
+      "http://cc.cmbchina.com/content/loan/cashad.htm",
+      "http://cc.cmbchina.com",
+      "http://cc.cmbchina.com/cusservice/",
+      "http://cc.cmbchina.com/content/loan/efq.htm",
+      "http://cc.cmbchina.com/content/cusservice/2019zc.htm",
+      "http://cc.cmbchina.com/content/card/schedule.htm",
+      "http://cc.cmbchina.com/vip/",
+      "http://cc.cmbchina.com/content/cusservice/51.htm",
+      "http://cc.cmbchina.com/content/loan/netpay.htm",
+      "http://cc.cmbchina.com/content/loan/least.htm",
+      "http://cc.cmbchina.com/card/newcustomer.htm?WT.mc_id=N17PCGW10408944100ZH",
+      "http://cc.cmbchina.com/content/card/fushu.htm",
+      "http://cc.cmbchina.com/StepShop/",
+      "http://cc.cmbchina.com/Promotion/",
+      "http://cc.cmbchina.com/",
+      "http://cc.cmbchina.com/content/cusservice/bjcard.htm"
+    ],
+    "login_url": [],
+    "count": 23
+  },
+  "ccclub.cmbchina.com": {
+    "url": [
+      "http://ccclub.cmbchina.com/ccproduct/newcustomer.aspx"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "cfe.paas.cmbchina.com": {
+    "url": [
+      "https://cfe.paas.cmbchina.com/ydtpc-web/landing?entryChannel=009002",
+      "https://cfe.paas.cmbchina.com/ydtpc-web/product-detail/320",
+      "https://cfe.paas.cmbchina.com/ydtpc-web/product-detail/241",
+      "https://cfe.paas.cmbchina.com/ydtpc-web/product-detail/322",
+      "https://cfe.paas.cmbchina.com/ydtpc-web/leads-questionnaire?questionnaireId=10\u0026relationshipId=15",
+      "https://cfe.paas.cmbchina.com/ydtpc-web/product-detail/323",
+      "https://cfe.paas.cmbchina.com/ydtpc-web/product-detail/239",
+      "https://cfe.paas.cmbchina.com/ydtpc-web/product-detail/19",
+      "https://cfe.paas.cmbchina.com/ydtpc-web/product-detail/104",
+      "https://cfe.paas.cmbchina.com/ydtpc-web/product-detail/246",
+      "https://cfe.paas.cmbchina.com/ydtpc-web/product-detail/250",
+      "https://cfe.paas.cmbchina.com/ydtpc-web/product-detail/101",
+      "https://cfe.paas.cmbchina.com/ydtpc-web/product-detail/30",
+      "https://cfe.paas.cmbchina.com/ydtpc-web/product-detail/28"
+    ],
+    "login_url": [],
+    "count": 14
+  },
+  "checktransactionbill.paas.cmbchina.com": {
+    "url": [
+      "http://checktransactionbill.paas.cmbchina.com/checkTransaction"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "cmb-pub-info.paas.cmbchina.com": {
+    "url": [
+      "https://cmb-pub-info.paas.cmbchina.com/"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "confirmation-web.paas.cmbchina.com": {
+    "url": [
+      "https://confirmation-web.paas.cmbchina.com/"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "corporate-form.paas.cmbchina.com": {
+    "url": [
+      "https://corporate-form.paas.cmbchina.com"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "crdcardapply.paas.cmbchina.com": {
+    "url": [
+      "https://crdcardapply.paas.cmbchina.com/CrdCardApply/RecommentCfm.aspx?cardsel=\u0026where=pc1_pc2\u0026WT.mc_id=M17PCGW104AB275100LK"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "custody.ebank.cmbchina.com": {
+    "url": [
+      "https://custody.ebank.cmbchina.com/"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "dcec-ubank.paas.cmbchina.com": {
+    "url": [
+      "https://dcec-ubank.paas.cmbchina.com/ibz/dashboard"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "ecr.paas.cmbchina.com": {
+    "url": [
+      "https://ecr.paas.cmbchina.com"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "english.cmbchina.com": {
+    "url": [
+      "http://english.cmbchina.com",
+      "http://english.cmbchina.com/cmbir/home.aspx"
+    ],
+    "login_url": [],
+    "count": 2
+  },
+  "fi.cmbchina.com": {
+    "url": [
+      "https://fi.cmbchina.com/user/",
+      "https://fi.cmbchina.com",
+      "https://fi.cmbchina.com/user/scripts/%5C%22assets/cfca-sip-input.min.js%5C%22",
+      "https://fi.cmbchina.com/user/scripts/%5C%22.%5C%22",
+      "https://fi.cmbchina.com/user/scripts/%7B%7B%20vm.backgroundVideoUrl%20%7D%7D",
+      "https://fi.cmbchina.com/user/scripts/%7B%7B%20image%20%7D%7D",
+      "https://fi.cmbchina.com/user/scripts/%5C%22favicon.ico%5C%22",
+      "https://fi.cmbchina.com/user/scripts/%5C%22humans.txt%5C%22"
+    ],
+    "login_url": [],
+    "count": 8
+  },
+  "fiir.paas.cmbchina.com": {
+    "url": [
+      "https://fiir.paas.cmbchina.com"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "fin.paas.cmbchina.com": {
+    "url": [
+      "https://fin.paas.cmbchina.com/fininfo/calforex",
+      "https://fin.paas.cmbchina.com/fininfo/cdrate",
+      "https://fin.paas.cmbchina.com/fininfo/calloanper",
+      "https://fin.paas.cmbchina.com/fininfo/serviceprice",
+      "https://fin.paas.cmbchina.com/fininfo/interestrate",
+      "https://fin.paas.cmbchina.com/fininfo/calguozai",
+      "https://fin.paas.cmbchina.com/fininfo/calsaving",
+      "https://fin.paas.cmbchina.com/fininfo/bondtradeprice",
+      "https://fin.paas.cmbchina.com/fininfo/offshoreratehq",
+      "https://fin.paas.cmbchina.com/fininfo/offshoreratedq",
+      "https://fin.paas.cmbchina.com/fininfo/firmrate"
+    ],
+    "login_url": [],
+    "count": 11
+  },
+  "finprod.paas.cmbchina.com": {
+    "url": [
+      "https://finprod.paas.cmbchina.com/"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "fund.cmbchina.com": {
+    "url": [
+      "http://fund.cmbchina.com/FundPages/OpenFund/FundNetValue.aspx",
+      "http://fund.cmbchina.com",
+      "http://fund.cmbchina.com/exchange",
+      "http://fund.cmbchina.com/closefund",
+      "http://fund.cmbchina.com/news",
+      "http://fund.cmbchina.com/school",
+      "http://fund.cmbchina.com/company",
+      "http://fund.cmbchina.com/FundPages/Commerce/CommercePlanMaterial.aspx",
+      "http://fund.cmbchina.com/openfund",
+      "http://fund.cmbchina.com/fundpages/common/funddetail.aspx?fundid=460005",
+      "http://fund.cmbchina.com/"
+    ],
+    "login_url": [],
+    "count": 11
+  },
+  "fx.cmbchina.com": {
+    "url": [
+      "http://fx.cmbchina.com/hq/",
+      "http://fx.cmbchina.com",
+      "http://fx.cmbchina.com/bor",
+      "http://fx.cmbchina.com/Finance/",
+      "http://fx.cmbchina.com/GlobalData/",
+      "http://fx.cmbchina.com/",
+      "http://fx.cmbchina.com/news",
+      "http://fx.cmbchina.com/AnalyseReview/",
+      "http://fx.cmbchina.com/hq"
+    ],
+    "login_url": [],
+    "count": 9
+  },
+  "gold.cmbchina.com": {
+    "url": [
+      "http://gold.cmbchina.com",
+      "http://gold.cmbchina.com/Products/ProductDetail.aspx?PrdCode=FJ078GLD0011G0150",
+      "http://gold.cmbchina.com/",
+      "https://gold.cmbchina.com/",
+      "http://gold.cmbchina.com/Products/ProductList.aspx"
+    ],
+    "login_url": [],
+    "count": 5
+  },
+  "gongyi.cmbchina.com": {
+    "url": [
+      "http://gongyi.cmbchina.com/qyzr/",
+      "http://gongyi.cmbchina.com/yuejuan/index.html"
+    ],
+    "login_url": [],
+    "count": 2
+  },
+  "hk.cmbchina.com": {
+    "url": [
+      "http://hk.cmbchina.com/"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "jf.cmbchina.com": {
+    "url": [
+      "http://jf.cmbchina.com/"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "london.cmbchina.com": {
+    "url": [
+      "http://london.cmbchina.com/"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "m.cmbchina.com": {
+    "url": [
+      "https://m.cmbchina.com/app"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "map.cmbchina.com": {
+    "url": [
+      "http://map.cmbchina.com",
+      "https://map.cmbchina.com/",
+      "http://map.cmbchina.com/"
+    ],
+    "login_url": [],
+    "count": 3
+  },
+  "market.cmbchina.com": {
+    "url": [
+      "http://market.cmbchina.com/MPage/online/220607120009184/vippc/vip/jingzhi/index.html",
+      "http://market.cmbchina.com/MPage/online/220528101414890/lxskpc/index.html",
+      "https://market.cmbchina.com/MPage/online/220526171323778/download/index.html",
+      "http://market.cmbchina.com/MPage/online/220607120009184/vippc/vip/yinlian/index.html",
+      "http://market.cmbchina.com/MPage/online/220526171323778/download/index.html",
+      "http://market.cmbchina.com/MPage/online/220607120009184/vippc/vip/jingdian/index.html",
+      "http://market.cmbchina.com/MPage/online/220607120009184/vippc/vip/wuxian/index.html",
+      "http://market.cmbchina.com/MPage/online/220607120009184/vippc/vip/aebpc/index1.html",
+      "https://market.cmbchina.com/MPage/online/210420141112656/index.html",
+      "http://market.cmbchina.com/MPage/online/220526171638310/platinum4/index.html",
+      "https://market.cmbchina.com/MPage/online/221124094753611/2103121533490932022/zdh5/index.html",
+      "http://market.cmbchina.com/MPage/online/220607120009184/vippc/vip/diamond/index.html",
+      "https://market.cmbchina.com/MPage/online/210305164726891/cunkuanbaoxian/index.html",
+      "http://market.cmbchina.com/MPage/online/220526171324997/feichang/jingwailvxing.html",
+      "https://market.cmbchina.com/MPage/online/240416094626104/psg/psg.html",
+      "https://market.cmbchina.com/MPage/online/210525094527983/zstgh5/index.html",
+      "http://market.cmbchina.com/MPage/online/220526172558741/zzfw2011/index.html",
+      "http://market.cmbchina.com/MPage/online/230105135830654/xjgdlqpc/index.html",
+      "https://market.cmbchina.com/MPage/online/240909170402139/wsdsjk/index.html",
+      "https://market.cmbchina.com/MPage/online/220630190409553/bx/index.html",
+      "http://market.cmbchina.com/ccard/cmblife/download/",
+      "http://market.cmbchina.com/MPage/online/220526172456396/yppc2021/index.html",
+      "https://market.cmbchina.com/MPage/online/220526170523847/cfyhpc/index.html",
+      "http://market.cmbchina.com/MPage/online/220526170523847/cfyhpc/index.html",
+      "http://market.cmbchina.com/MPage/online/220722093008825/hkbx/index.html?1658453497",
+      "https://market.cmbchina.com/MPage/online/241030163521870/zyb/index.html",
+      "https://market.cmbchina.com/personal/shengyidai/index.html",
+      "https://market.cmbchina.com/MPage/online/241120162927496/zybf/index.html",
+      "http://market.cmbchina.com/MPage/online/220607120009184/vippc/vip/quanbi/index.html",
+      "https://market.cmbchina.com/MPage/online/240909171941205/wsdbjk/index.html",
+      "http://market.cmbchina.com/MPage/online/220722093008825/hkbx/index.html",
+      "https://market.cmbchina.com/MPage/online/241030163521870/zyb/tjlyq.html",
+      "http://market.cmbchina.com/MPage/online/220531163848140/business/trip.html",
+      "https://market.cmbchina.com/MPage/online/241030163521870/zyb/srgy.html",
+      "https://market.cmbchina.com/MPage/online/241030163521870/zyb/jfdhycp.html",
+      "https://market.cmbchina.com/MPage/online/241030163521870/zyb/xylyq.html",
+      "https://market.cmbchina.com/MPage/online/241030163521870/zyb/jcgbt.html",
+      "https://market.cmbchina.com/MPage/online/220607120009184/vippc/vipjh/ylfx.html",
+      "https://market.cmbchina.com/MPage/online/241030163521870/zyb/jfdhhy.html",
+      "https://market.cmbchina.com/MPage/online/241030163521870/zyb/jfdhyd.html",
+      "http://market.cmbchina.com/MPage/online/220722093008825/hkbx/lxbbx.html",
+      "https://market.cmbchina.com/MPage/online/241030163521870/zyb/hotel.html",
+      "https://market.cmbchina.com/MPage/online/241030163521870/zyb/gift.html",
+      "https://market.cmbchina.com/MPage/online/241030163521870/zyb/xbkhd.html",
+      "http://market.cmbchina.com/MPage/online/220531163848140/business/index.html",
+      "https://market.cmbchina.com/MPage/online/241030163521870/zyb/zybfqly.html",
+      "http://market.cmbchina.com/MPage/online/220531163848140/business/integral.html",
+      "http://market.cmbchina.com/MPage/online/220531163848140/business/procard01.html",
+      "http://market.cmbchina.com/MPage/online/220531163848140/business/case01.html",
+      "https://market.cmbchina.com/MPage/online/220107140525939/treeindex/index.html",
+      "https://market.cmbchina.com/MPage/online/230210113424515/yuejuan/index.html",
+      "https://market.cmbchina.com/MPage/online/241030163521870/zyb/xhly.html",
+      "https://market.cmbchina.com/MPage/online/210927112110536/fxqh6/index.html",
+      "http://market.cmbchina.com/MPage/online/220722093008825/hkbx/jtywx.html",
+      "http://market.cmbchina.com/a",
+      "http://market.cmbchina.com/MPage/online/220722093008825/hkbx/zjywx.html",
+      "https://market.cmbchina.com/MPage/online/220630190409553/bx/product_list.html",
+      "http://market.cmbchina.com/MPage/online/220722093008825/hkbx/hkbx.html",
+      "https://market.cmbchina.com/MPage/online/230210113424515/yuejuan/yikehongliu.html",
+      "https://market.cmbchina.com/MPage/online/230210113424515/yuejuan/cjwt-list-2.html",
+      "https://market.cmbchina.com/MPage/online/230210113424515/yuejuan/erTongKuaiLeJiaYuan.html",
+      "https://market.cmbchina.com/MPage/online/230210113424515/yuejuan/xiWangGongChengDS.html",
+      "https://market.cmbchina.com/MPage/online/230210113424515/yuejuan/cjwt.html",
+      "https://market.cmbchina.com/MPage/online/230210113424515/yuejuan/jinKuiHua_erTong.html",
+      "https://market.cmbchina.com/MPage/online/230210113424515/yuejuan/boaizhuxue.html",
+      "https://market.cmbchina.com/MPage/online/230210113424515/yuejuan/lvsealashan.html",
+      "https://market.cmbchina.com/MPage/online/230210113424515/yuejuan/xiWangChuFang.html",
+      "https://market.cmbchina.com/MPage/online/230210113424515/yuejuan/guaiAiLaoBin.html",
+      "https://market.cmbchina.com/MPage/online/230210113424515/yuejuan/yiJiaRen.html",
+      "https://market.cmbchina.com/MPage/online/220607120009184/vippc/vipjh/secretary.html",
+      "http://market.cmbchina.com/personal/qyMobile/qyMobile/ubank/gjyw.html",
+      "http://market.cmbchina.com/personal/qyMobile/qyMobile/ubank/dfdk.html",
+      "http://market.cmbchina.com/personal/qyMobile/qyMobile/ubank/zf.html",
+      "http://market.cmbchina.com/personal/qyMobile/qyMobile/ubank/zhcx.html",
+      "https://market.cmbchina.com/MPage/online/220607120009184/vippc/vipjh/jflc.html",
+      "https://market.cmbchina.com/MPage/online/220607120009184/vippc/vipjh/airport.html",
+      "https://market.cmbchina.com/MPage/online/220607120009184/vippc/vipjh/skbz.html",
+      "https://market.cmbchina.com/MPage/online/220607120009184/vippc/vipjh/accident.html",
+      "https://market.cmbchina.com/MPage/online/220607120009184/vippc/vipjh/gourmet.html",
+      "https://market.cmbchina.com/MPage/online/220607120009184/vippc/vipjh/car.html",
+      "https://market.cmbchina.com/MPage/online/240909170402139/wsdsjk/jktj.html",
+      "https://market.cmbchina.com/MPage/online/220607120009184/vippc/vipjh/delay.html",
+      "https://market.cmbchina.com/MPage/online/240909170402139/wsdsjk/kqhl.html",
+      "https://market.cmbchina.com/MPage/online/240909170402139/wsdsjk/jwbwg.html",
+      "https://market.cmbchina.com/MPage/online/240909170402139/wsdsjk/jpfx.html",
+      "http://market.cmbchina.com/ccard/xd/wcs.html",
+      "http://market.cmbchina.com/personal/qyMobile/qyMobile/qywysc/dfdk.html",
+      "http://market.cmbchina.com/personal/qyMobile/qyMobile/qywysc/zfjs.html",
+      "http://market.cmbchina.com/personal/qyMobile/qyMobile/ubank/jshsq.html",
+      "http://market.cmbchina.com/personal/qyMobile/qyMobile/ubank/gjhk.html",
+      "http://market.cmbchina.com/personal/qyMobile/qyMobile/qywysc/zhcx.html",
+      "http://market.cmbchina.com/personal/qyMobile/qyMobile/ubank/gjxyz.html"
+    ],
+    "login_url": [],
+    "count": 92
+  },
+  "ny.cmbchina.com": {
+    "url": [
+      "http://ny.cmbchina.com/"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "onlineservice-jump-web.paas.cmbchina.com": {
+    "url": [
+      "https://onlineservice-jump-web.paas.cmbchina.com/PortalSite/Corporate/Jump",
+      "https://onlineservice-jump-web.paas.cmbchina.com/PortalSite/Personal/Jump",
+      "https://onlineservice-jump-web.paas.cmbchina.com/PortalSite/Jump"
+    ],
+    "login_url": [],
+    "count": 3
+  },
+  "openbiz.cmbchina.com": {
+    "url": [
+      "https://openbiz.cmbchina.com/"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "pan.cmbchina.com": {
+    "url": [
+      "https://pan.cmbchina.com/p/jktxqvhi"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "pbsz.ebank.cmbchina.com": {
+    "url": [
+      "https://pbsz.ebank.cmbchina.com/CmbBank_GenShell/UI/GenShellPC/Login/Login.aspx?FJID=OjZDYKodj2k_"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "pe.paas.cmbchina.com": {
+    "url": [
+      "https://pe.paas.cmbchina.com"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "pfw.paas.cmbchina.com": {
+    "url": [
+      "https://pfw.paas.cmbchina.com"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "purchase.cmbchina.com": {
+    "url": [
+      "http://purchase.cmbchina.com/portal/"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "s3gw.cmbchina.com": {
+    "url": [
+      "https://s3gw.cmbchina.com"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "sme.cmbchina.com": {
+    "url": [
+      "https://sme.cmbchina.com",
+      "https://sme.cmbchina.com/homepage"
+    ],
+    "login_url": [],
+    "count": 2
+  },
+  "sou.cmbchina.com": {
+    "url": [
+      "http://sou.cmbchina.com"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "tgs.paas.cmbchina.com": {
+    "url": [
+      "https://tgs.paas.cmbchina.com"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "trip.cmbchina.com": {
+    "url": [
+      "http://trip.cmbchina.com/"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "u.cmbchina.com": {
+    "url": [
+      "https://u.cmbchina.com/"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "u.ebank.cmbchina.com": {
+    "url": [
+      "https://u.ebank.cmbchina.com/CmbBank_FB/UI/Login/FBPOPLogin.aspx",
+      "https://u.ebank.cmbchina.com/CmbBank_FB/UI/UserManagement/RecoverUserName.aspx",
+      "https://u.ebank.cmbchina.com/CmbBank_FB/UI/Login/Help/OnlineHelp.htm"
+    ],
+    "login_url": [
+      "https://u.ebank.cmbchina.com/CmbBank_FB/UI/Login/FBPOPLogin.aspx"
+    ],
+    "count": 3
+  },
+  "www.cmbchina.com": {
+    "url": [
+      "https://www.cmbchina.com/",
+      "https://www.cmbchina.com/cmbinfo/aboutcmb/",
+      "https://www.cmbchina.com/main/noticeinfo.aspx?guid=c8457e7e-d753-4b47-880d-26a18679a327",
+      "http://www.cmbchina.com/pbankwebNew/downloadPage.aspx",
+      "https://www.cmbchina.com/CmbInfo/crp/ContentInfo.aspx?guid=fe357db8-f969-4d07-a97f-96783731d9de",
+      "http://www.cmbchina.com/corporate/firmbank/FirmbankInfo.aspx?guid=d98f258e-3a3a-4967-a7e8-3eba377c7147",
+      "https://www.cmbchina.com/main/",
+      "https://www.cmbchina.com/cmbinfo/news/",
+      "https://www.cmbchina.com/corporate/cashmanagement/",
+      "https://www.cmbchina.com/",
+      "https://www.cmbchina.com/corporate",
+      "http://www.cmbchina.com",
+      "https://www.cmbchina.com/about/?pageid=licence",
+      "https://www.cmbchina.com/personal/credit/",
+      "https://www.cmbchina.com/about/sitemap.aspx",
+      "https://www.cmbchina.com/CustomerService/Default.aspx",
+      "http://www.cmbchina.com/cmbir/intro.aspx?type=annentry",
+      "https://www.cmbchina.com/personal/sunflower/",
+      "http://www.cmbchina.com/cmbir/",
+      "https://www.cmbchina.com/CmbInfo/crp/List.aspx?guid=85a6792c-0d8c-4ec0-b57b-fb3eac950b1e",
+      "https://www.cmbchina.com/Cmbinfo/crp/List.aspx?guid=b15d2340-3156-4b99-ae20-6515987c9e7e",
+      "https://www.cmbchina.com/cmbinfo/brand/",
+      "http://www.cmbchina.com/cmbir/ProductInfo.aspx?type=info\u0026id=frame",
+      "http://www.cmbchina.com/cmbir/FAQ.aspx?type=FAQ",
+      "https://www.cmbchina.com/privatebank/",
+      "https://www.cmbchina.com/esg/report/",
+      "https://www.cmbchina.com/esg/gongyi/",
+      "https://www.cmbchina.com/esg/structure/",
+      "https://www.cmbchina.com/esg",
+      "https://www.cmbchina.com/esg/advocacy/",
+      "https://www.cmbchina.com/corporate/firmbank/",
+      "https://www.cmbchina.com/esg/trends/news",
+      "https://www.cmbchina.com/esg/advocacy/institution",
+      "https://www.cmbchina.com/esg/trends/",
+      "https://www.cmbchina.com/personal/allinonecard/",
+      "https://www.cmbchina.com/personal/living/",
+      "https://www.cmbchina.com/esg/advocacy/proposal",
+      "https://www.cmbchina.com/corporate/international/",
+      "https://www.cmbchina.com/Personal/allinonecard/CardInfo.aspx?guid=80e1a8e6-a246-4a79-93fe-919b5e2f80d6",
+      "https://www.cmbchina.com/corporate/investment/",
+      "https://www.cmbchina.com/personal/invest/",
+      "https://www.cmbchina.com/personal/saving/",
+      "https://www.cmbchina.com/personal/netbank/",
+      "https://www.cmbchina.com/esg/trends/awards/AwardInfo.aspx?guid=1b9f9c58-214a-457b-8e39-876cc14ec7f6",
+      "https://www.cmbchina.com/esg/trends/news/",
+      "http://www.cmbchina.com/corporate/domestic/DomesticInfo.aspx?guid=88e89ec4-37e5-4c53-a8f6-9855bd218b9a",
+      "https://www.cmbchina.com/CustomerService/CustomerServiceInfo.aspx?guid=d72a311e-3908-4ec7-a78b-5073607d2643",
+      "https://www.cmbchina.com/CmbInfo/crp/",
+      "https://www.cmbchina.com/corporate/domestic/",
+      "https://www.cmbchina.com/Personal/Living/LivingInfo.aspx?guid=f09fe257-85a4-41f3-b364-6411df7096fa",
+      "https://www.cmbchina.com/Personal/sunflower/sunflowerInfo.aspx?guid=7f04b3b9-2387-43cb-ad42-fbee5223e54a",
+      "https://www.cmbchina.com/Corporate/Firmbank/FirmbankInfo.aspx?guid=d98f258e-3a3a-4967-a7e8-3eba377c7147",
+      "http://www.cmbchina.com/MBankWeb/",
+      "https://www.cmbchina.com/esg/trends/news/NewsInfo.aspx?guid=d2ab700f-9533-4a81-97a6-7985bc927ad9",
+      "http://www.cmbchina.com/personal/ebank/",
+      "http://www.cmbchina.com/cfweb/Financial/",
+      "http://www.cmbchina.com/cfweb/corporate/",
+      "https://www.cmbchina.com/esg/trends/awards/",
+      "https://www.cmbchina.com/esg/trends/awards",
+      "http://www.cmbchina.com/cfweb/personal/prodvalue.aspx",
+      "https://www.cmbchina.com/esg/",
+      "https://www.cmbchina.com/cmbinfo/brand/?PageNo=2",
+      "http://www.cmbchina.com/cmbinfo/aboutcmb/",
+      "https://www.cmbchina.com/cmbinfo",
+      "https://www.cmbchina.com/corporate/custody/",
+      "https://www.cmbchina.com/Scripts/%20+%20url%20+%20",
+      "https://www.cmbchina.com/corporate/investment/InvestbankInfo.aspx?guid=bfd26bcf-63be-465f-8206-74290d44988c",
+      "https://www.cmbchina.com/corporate/offshore/OffshoreInfo.aspx?guid=ecfd317a-a0df-48a6-81c5-e91ef80ed6b9",
+      "https://www.cmbchina.com/esg/trends/news/?PageNo=2",
+      "http://www.cmbchina.com/personal/ebank",
+      "http://www.cmbchina.com/personal/saving/",
+      "http://www.cmbchina.com/personal/LifeChoice",
+      "http://www.cmbchina.com/personal/WealthAccount/",
+      "https://www.cmbchina.com/cmbinfo/crp/",
+      "https://www.cmbchina.com/cmbinfo/brand/Brandinfo.aspx?guid=3f5a6198-e6a6-4a37-a5d0-509748eb37d6",
+      "http://www.cmbchina.com/cfweb/Corporate/",
+      "https://www.cmbchina.com/esg/advocacy",
+      "https://www.cmbchina.com/cmbinfo/crp/List.aspx?PageNo=2\u0026guid=85a6792c-0d8c-4ec0-b57b-fb3eac950b1e",
+      "https://www.cmbchina.com/esg/report/ReportList.aspx?guid=67e54102-4b72-4a63-9b9e-010bf03b4730",
+      "https://www.cmbchina.com/Personal/Credit/CreditInfo.aspx?guid=3423371a-8553-424a-bcb6-01cba1527ae0",
+      "https://www.cmbchina.com/about/default.aspx?guid=9e3208a6-c7a9-40e4-a5a6-d9685b091604",
+      "https://www.cmbchina.com/personal/invest/InvestInfo.aspx?guid=1a1530d9-68e3-4ca5-a920-0d3dad4b2338",
+      "http://www.cmbchina.com/corporate/firmbank/",
+      "https://www.cmbchina.com/personal/netbank/NetbankInfo.aspx?guid=f1ca8d13-83a5-44ce-9470-1ec0ad84e9d9",
+      "http://www.cmbchina.com/Cmb2014Web/cmbinfo/cusservice/risk_knowledge/page12.htm",
+      "http://www.cmbchina.com/cmbinfo/news/",
+      "http://www.cmbchina.com/personal/invest/",
+      "https://www.cmbchina.com/privatebank/PrivateBankInfo.aspx?guid=30195439-73fe-408d-b7f6-19a0e43242b8",
+      "http://www.cmbchina.com/corporate/domestic/",
+      "http://www.cmbchina.com/Personal/Allinonecard/",
+      "http://www.cmbchina.com/personal/netbank/",
+      "https://www.cmbchina.com/corporate/pension/",
+      "https://www.cmbchina.com/esg/advocacy/institution/?PageNo=2",
+      "https://www.cmbchina.com/cmbir/ProductInfo.aspx?type=info\u0026id=frame",
+      "http://www.cmbchina.com/cmbinfo/aboutcmb/default.aspx?guid=07ed8ee3-b32b-4fdc-8978-7db21dca1ea3",
+      "https://www.cmbchina.com/corporate/international/InternationalInfo.aspx?guid=a74cc526-3c6c-41a8-be06-9fc7f1a95a0f",
+      "https://www.cmbchina.com/MBankWeb/Site/",
+      "https://www.cmbchina.com/cmbinfo/awards/",
+      "http://www.cmbchina.com/cfweb",
+      "https://www.cmbchina.com/cmbir//ProductInfo.aspx?type=info\u0026id=frame",
+      "https://www.cmbchina.com/Corporate/Offshore/Default.aspx",
+      "http://www.cmbchina.com/cfweb/personal/",
+      "http://www.cmbchina.com/PrivateBank/",
+      "https://www.cmbchina.com/esg/advocacy/proposal/DetailInfo.aspx?guid=25eac010-3bea-475a-b0cf-b77d6afda31f",
+      "http://www.cmbchina.com/corporate/cashmanagement/",
+      "https://www.cmbchina.com/MBankWeb/News/",
+      "http://www.cmbchina.com/esg/advocacy/",
+      "https://www.cmbchina.com/corporate/offshore/",
+      "https://www.cmbchina.com/MBankWeb/News/NewsDetail.aspx?id=7f52e58a-3de3-4c5c-bccb-1017781599db",
+      "http://www.cmbchina.com/corporate/offshore/",
+      "https://www.cmbchina.com/cmbir/summary.aspx?type=Governance",
+      "https://www.cmbchina.com/Corporate/Investment/Default.aspx",
+      "http://www.cmbchina.com/MBankWeb/Site/",
+      "https://www.cmbchina.com/MBankWeb/Products/?submenu=iphone",
+      "http://www.cmbchina.com/corporate/investment/",
+      "https://www.cmbchina.com/cmbir/FAQ.aspx?type=FAQ",
+      "https://www.cmbchina.com/cmbir/intro.aspx?type=StockInfo",
+      "https://www.cmbchina.com/cmbir/zbjg.aspx?type=zbjg",
+      "http://www.cmbchina.com/esg/trends/",
+      "https://www.cmbchina.com/corporate/firmbank/FirmbankInfo.aspx?guid=d98f258e-3a3a-4967-a7e8-3eba377c7147",
+      "http://www.cmbchina.com/CmbWebPubInfo/Cal_Pension.aspx",
+      "https://www.cmbchina.com/cfweb/corporate/%20/cfweb/Corporate/ProdBySeries.aspx?code=020051",
+      "https://www.cmbchina.com/main/?PageNo=2",
+      "https://www.cmbchina.com/Personal/Allinonecard",
+      "https://www.cmbchina.com/cmbinfo/news/?PageNo=2",
+      "https://www.cmbchina.com/Main/NoticeInfo.aspx?guid=c8457e7e-d753-4b47-880d-26a18679a327",
+      "http://www.cmbchina.com/personal/credit/",
+      "http://www.cmbchina.com/cfweb/personal/prodnotice.aspx",
+      "https://www.cmbchina.com/Personal/Saving/SavingInfo.aspx?guid=86652863-3ab6-4061-bf13-1ea4673d5dd0",
+      "https://www.cmbchina.com/corporate/financial/",
+      "https://www.cmbchina.com/MBankWeb/QA/QaDetail.aspx?id=86e22091-f3e4-4d29-b2b5-ef0205f75d26",
+      "http://www.cmbchina.com/cmbwebpubinfo/pensionvaluelist.aspx",
+      "https://www.cmbchina.com/Personal/sunflower/SunflowerInfo.aspx?guid=7f04b3b9-2387-43cb-ad42-fbee5223e54a",
+      "https://www.cmbchina.com/cfweb/Corporate/%20/cfweb/Corporate/ProdBySeries.aspx?code=020051",
+      "https://www.cmbchina.com/corporate/domestic/DomesticInfo.aspx?guid=83bee538-cd63-47eb-886b-d3721c36d572",
+      "https://www.cmbchina.com/cmbinfo/news/newsinfo.aspx?guid=00b09cb4-4b7b-4cf2-890c-1dfd8a3a8f19",
+      "https://www.cmbchina.com/Corporate/International/Default.aspx",
+      "https://www.cmbchina.com/esg/trends",
+      "http://www.cmbchina.com/corporate/international/",
+      "http://www.cmbchina.com/CustomerService/",
+      "http://www.cmbchina.com/corporate/common.aspx?pageid=contactus",
+      "https://www.cmbchina.com/Corporate/Financial/Default.aspx",
+      "https://www.cmbchina.com/cmbinfo/crp/ContentInfo.aspx?guid=40aa7bcf-1509-4c9d-8ac4-cb99e87875b7",
+      "http://www.cmbchina.com/personal/sunflower/",
+      "https://www.cmbchina.com/cfweb/CDeposit/ProdBySeries.aspx?maintype=06\u0026code=060001",
+      "https://www.cmbchina.com/MBankWeb/QA/",
+      "https://www.cmbchina.com/cmbir",
+      "https://www.cmbchina.com/personal/cgjr/",
+      "https://www.cmbchina.com/cfweb/Corporate/ProdBySeries.aspx?maintype=02\u0026code=020051",
+      "https://www.cmbchina.com/CustomerService",
+      "https://www.cmbchina.com/Corporate/Domestic/Default.aspx",
+      "http://www.cmbchina.com/personal/living",
+      "https://www.cmbchina.com/Corporate/domestic",
+      "https://www.cmbchina.com/Scripts/layer/'+t.content[0]+'",
+      "http://www.cmbchina.com/CFWeb/CDeposit/ProdBySeries.aspx?maintype=06\u0026code=060001",
+      "http://www.cmbchina.com/CFWeb/sd/ProdBySeries.aspx?type=\u0026ch=1\u0026anntype=A",
+      "https://www.cmbchina.com/cmbinfo/crp/List.aspx?guid=a3652f28-7ca0-458b-9898-bccc1db21728",
+      "https://www.cmbchina.com/Scripts/layer/'+u[d].src+'",
+      "https://www.cmbchina.com/cfweb/sd/ProdBySeries.aspx?type=\u0026ch=1\u0026anntype=A",
+      "http://www.cmbchina.com/cfweb/Corporate/prodvalue.aspx",
+      "https://www.cmbchina.com/a",
+      "http://www.cmbchina.com/about/",
+      "https://www.cmbchina.com/MBankWeb/Download/DownloadDetail.aspx?os=iphone",
+      "http://www.cmbchina.com/cfweb/personal/productdetail.aspx?code=9439",
+      "http://www.cmbchina.com/personal/living/",
+      "http://www.cmbchina.com/cmbinfo/awards/",
+      "http://www.cmbchina.com/Corporate/domestic/",
+      "http://www.cmbchina.com/corporate/custody/",
+      "https://www.cmbchina.com/Corporate",
+      "https://www.cmbchina.com/Personal/living",
+      "https://www.cmbchina.com/Corporate/Pension/Default.aspx",
+      "https://www.cmbchina.com/about",
+      "http://www.cmbchina.com/corporate/pension/PensionInfo.aspx?pageid=download",
+      "http://www.cmbchina.com/Corporate/Firmbank/",
+      "http://www.cmbchina.com/assetdisposal",
+      "https://www.cmbchina.com/cfweb/personal/FpSeller.aspx",
+      "http://www.cmbchina.com/assetdisposal/",
+      "https://www.cmbchina.com/mbankweb",
+      "http://www.cmbchina.com/personal/saving",
+      "https://www.cmbchina.com/Corporate/Investment/InvestbankInfo.aspx?guid=bfd26bcf-63be-465f-8206-74290d44988c",
+      "http://www.cmbchina.com/Corporate/",
+      "https://www.cmbchina.com/Corporate/investment",
+      "https://www.cmbchina.com/cfweb/Personal/Default.aspx",
+      "https://www.cmbchina.com/Corporate/International/InternationalInfo.aspx?guid=a74cc526-3c6c-41a8-be06-9fc7f1a95a0f",
+      "https://www.cmbchina.com/cfweb/sd/prodbyseries.aspx?type=a\u0026ch=1",
+      "https://www.cmbchina.com/cfweb/sd/",
+      "http://www.cmbchina.com/corporate/financial",
+      "https://www.cmbchina.com/cmbir/DetailInfo.aspx?chnl=Governance\u0026id=642",
+      "https://www.cmbchina.com/cmbinfo/crp",
+      "https://www.cmbchina.com/cfweb/sd/prodbyseries.aspx?type=\u0026ch=1\u0026anntype=a",
+      "http://www.cmbchina.com/personal/invest",
+      "https://www.cmbchina.com/Corporate/Firmbank",
+      "https://www.cmbchina.com/Personal/Sunflower",
+      "https://www.cmbchina.com/cfweb/sd/default.aspx?anntype=C",
+      "http://www.cmbchina.com/corporate/financial/",
+      "http://www.cmbchina.com/cfweb/",
+      "https://www.cmbchina.com/Corporate/Offshore/OffshoreInfo.aspx?guid=5254326f-1015-4287-94c2-d12081f8c8f2",
+      "http://www.cmbchina.com/mbankweb",
+      "https://www.cmbchina.com/Corporate/Financial/FinancialInfo.aspx?guid=66260aa1-d9d2-4d2e-855b-00d70a0a7b17",
+      "https://www.cmbchina.com/cfweb/personal/prodvalue.aspx?comCod=000\u0026PrdType=T0052\u0026PrdCode=601091",
+      "https://www.cmbchina.com/Personal/saving",
+      "https://www.cmbchina.com/corporate/financial/FinancialInfo.aspx?guid=66260aa1-d9d2-4d2e-855b-00d70a0a7b17",
+      "https://www.cmbchina.com/Personal",
+      "https://www.cmbchina.com/assetdisposal/ListInfo.aspx?guid=5947b703-1d40-4f6a-83ba-ccc462a1f16c",
+      "https://www.cmbchina.com/cfweb/personal/prodvalue.aspx?PageNo=2",
+      "https://www.cmbchina.com/Corporate/Custody/Default.aspx",
+      "https://www.cmbchina.com/personal",
+      "http://www.cmbchina.com/personal/",
+      "https://www.cmbchina.com/Personal/Netbank",
+      "https://www.cmbchina.com/Personal/Invest",
+      "http://www.cmbchina.com/corporate/pension/PensionInfo.aspx?guid=10d83555-69a2-4787-a733-01623d3ca5e4",
+      "https://www.cmbchina.com/Personal/CGJR/CGJRInfo.aspx?guid=6f371501-f803-4b0f-a3c3-41ddc843377f",
+      "https://www.cmbchina.com/Corporate/Domestic/DomesticInfo.aspx?guid=f49cd031-f037-4aa8-a3b3-06339a9d9d5b",
+      "https://www.cmbchina.com/Corporate/domestic/DomesticInfo.aspx?guid=f49cd031-f037-4aa8-a3b3-06339a9d9d5b",
+      "http://www.cmbchina.com/corporate/offshore/OffshoreInfo.aspx?guid=c19e06b2-3380-406e-af9c-a4f87af5b70d",
+      "https://www.cmbchina.com/cmbinfo/news",
+      "https://www.cmbchina.com/esg/report/ReportList.aspx?PageNo=2\u0026guid=67e54102-4b72-4a63-9b9e-010bf03b4730",
+      "https://www.cmbchina.com/corporate/pension/pensioninfo.aspx?guid=1ca74fe9-3830-4d6d-92b5-f89f66a82bf6",
+      "https://www.cmbchina.com/cfweb/Corporate/prodvalue.aspx?PrdType=T0053\u0026PrdCode=98045",
+      "https://www.cmbchina.com/esg/advocacy/proposal/",
+      "https://www.cmbchina.com/Corporate/international",
+      "https://www.cmbchina.com/Cmbinfo/crp/ContentInfo.aspx?guid=89559a7d-6672-40de-85a5-09a3c7025edc",
+      "https://www.cmbchina.com/corporate/pension",
+      "https://www.cmbchina.com/corporate/pension/PensionInfo.aspx?guid=32ff83a6-8332-4af8-a899-71f732b59d67",
+      "https://www.cmbchina.com/assetdisposal/ContentInfo.aspx?guid=e5008ea2-9e0c-4f71-82e6-3d64f1aaf3ae",
+      "http://www.cmbchina.com/corporate/pension/",
+      "https://www.cmbchina.com/corporate/custody/CustodyInfo.aspx?guid=fec175f2-0026-41de-815d-63f469af3c4c",
+      "https://www.cmbchina.com/Personal/Credit",
+      "https://www.cmbchina.com/cfweb/Financial/prodnotice.aspx",
+      "https://www.cmbchina.com/esg/report",
+      "https://www.cmbchina.com/cfweb/Personal/productdetail.aspx?code=9439\u0026type=prodintro",
+      "https://www.cmbchina.com/cfweb/Corporate/prodnotice.aspx",
+      "http://www.cmbchina.com/corporate/pension/RiskTest.aspx",
+      "http://www.cmbchina.com/cmbinfo/crp/",
+      "https://www.cmbchina.com/pbankwebNew/DownLoadQA.aspx",
+      "https://www.cmbchina.com/cfweb/Financial/prodvalue.aspx",
+      "https://www.cmbchina.com/cfweb/Financial/ProdBySeries.aspx?maintype=04\u0026code=040018",
+      "http://www.cmbchina.com/About/SiteMap.aspx",
+      "https://www.cmbchina.com/Corporate/Pension/pensioninfo.aspx?guid=1ca74fe9-3830-4d6d-92b5-f89f66a82bf6",
+      "https://www.cmbchina.com/cfweb/Corporate/prodvalue.aspx",
+      "https://www.cmbchina.com/privatebank",
+      "https://www.cmbchina.com/cfweb/personal/ProdBySeries.aspx?code=010001",
+      "https://www.cmbchina.com/privatebank/PrivatebankInfo.aspx?guid=30195439-73fe-408d-b7f6-19a0e43242b8",
+      "https://www.cmbchina.com/cfweb/personal/bulletinlist.aspx",
+      "https://www.cmbchina.com/Corporate/pension",
+      "https://www.cmbchina.com/Corporate/Pension/PensionInfo.aspx?guid=32ff83a6-8332-4af8-a899-71f732b59d67",
+      "https://www.cmbchina.com/main/default.aspx",
+      "https://www.cmbchina.com/cmbinfo/awards/awardsinfo.aspx?guid=b3f41969-671c-4d5a-9cdd-a638f4d76d99",
+      "https://www.cmbchina.com/Personal/cgjr",
+      "https://www.cmbchina.com/cfweb/Corporate/ProdBySeries.aspx?code=020051",
+      "http://www.cmbchina.com/Corporate/pension/",
+      "https://www.cmbchina.com/assetdisposal/",
+      "http://www.cmbchina.com/cmbinfo/",
+      "http://www.cmbchina.com/CmbInfo/crp/ContentInfo.aspx?guid=fe357db8-f969-4d07-a97f-96783731d9de",
+      "http://www.cmbchina.com/webpages/cmbsafe/index.htm",
+      "https://www.cmbchina.com/cfweb/Corporate/",
+      "http://www.cmbchina.com/CmbInfo/crp/",
+      "http://www.cmbchina.com/Cmb2014Web/CmbInfo/CustomerService/",
+      "http://www.cmbchina.com/webpages/certificate.htm",
+      "https://www.cmbchina.com/cfweb/personal/prodnotice.aspx",
+      "https://www.cmbchina.com/cmbinfo/aboutcmb/default.aspx?guid=d4f2fba8-081e-4c8d-b973-17694f836c0c",
+      "https://www.cmbchina.com/cfweb/Corporate/ProdPrivateDes.aspx",
+      "https://www.cmbchina.com/Corporate/Custody/CustodyInfo.aspx?guid=fec175f2-0026-41de-815d-63f469af3c4c",
+      "http://www.cmbchina.com/about/?pageid=goodlink",
+      "https://www.cmbchina.com/cmbinfo/aboutcmb",
+      "http://www.cmbchina.com/",
+      "http://www.cmbchina.com/about/sitemap.aspx",
+      "http://www.cmbchina.com/corporate/",
+      "https://www.cmbchina.com/cfweb/personal/prodvalue.aspx?comCod=000\u0026PrdType=T0052\u0026PrdCode=601091\u0026PageNo=2",
+      "http://www.cmbchina.com/esg/",
+      "https://www.cmbchina.com/Corporate/pension/PensionInfo.aspx?guid=32ff83a6-8332-4af8-a899-71f732b59d67",
+      "https://www.cmbchina.com/cmbinfo/awards",
+      "http://www.cmbchina.com/esg/trends/news/",
+      "https://www.cmbchina.com/cfweb/personal/default.aspx",
+      "https://www.cmbchina.com/Corporate/pension/pensioninfo.aspx?guid=1ca74fe9-3830-4d6d-92b5-f89f66a82bf6",
+      "https://www.cmbchina.com/cfweb/Personal/",
+      "http://www.cmbchina.com/esg/advocacy/institution/",
+      "https://www.cmbchina.com/cfweb/personal/prodvalue.aspx?comCod=000\u0026PrdType=T0052\u0026PrdCode=601091\u0026PageNoNew=2",
+      "https://www.cmbchina.com/Corporate/Custody",
+      "http://www.cmbchina.com/cfweb/Personal/Default.aspx",
+      "https://www.cmbchina.com/cfweb/personal/prodvalue.aspx",
+      "http://www.cmbchina.com/esg/trends/awards/",
+      "http://www.cmbchina.com/esg/advocacy/proposal/"
+    ],
+    "login_url": [],
+    "count": 283
+  },
+  "xcg.paas.cmbchina.com": {
+    "url": [
+      "https://xcg.paas.cmbchina.com/portal/page/platEnter.html",
+      "https://xcg.paas.cmbchina.com/portal/page/notice/noticeList.html",
+      "https://xcg.paas.cmbchina.com/portal/page/area/downloadAreaList.html",
+      "https://xcg.paas.cmbchina.com/seller/",
+      "https://xcg.paas.cmbchina.com/supplier/"
+    ],
+    "login_url": [],
+    "count": 5
+  },
+  "xft.cmbchina.com": {
+    "url": [
+      "https://xft.cmbchina.com",
+      "https://xft.cmbchina.com/",
+      "https://xft.cmbchina.com/index/service-agreement.html",
+      "https://xft.cmbchina.com/index/privacy-policy.html",
+      "https://xft.cmbchina.com/helpapp/",
+      "https://xft.cmbchina.com/community/",
+      "https://xft.cmbchina.com/open/",
+      "https://xft.cmbchina.com/helpapp/help.html",
+      "https://xft.cmbchina.com/index/download.html?channelCode=officialWebsite",
+      "https://xft.cmbchina.com/index/about-us/about-us.html",
+      "https://xft.cmbchina.com/index/safety-protect/safety-protect.html",
+      "https://xft.cmbchina.com/index/solution/solution12.html",
+      "https://xft.cmbchina.com/index/solution/solution5.html",
+      "https://xft.cmbchina.com/index/solution/solution6.html",
+      "https://xft.cmbchina.com/index/solution/solution7.html",
+      "https://xft.cmbchina.com/index/solution/solution8.html",
+      "https://xft.cmbchina.com/index/solution/solution4.html",
+      "https://xft.cmbchina.com/index/solution/solution10.html",
+      "https://xft.cmbchina.com/index/solution/solution2.html",
+      "https://xft.cmbchina.com/index/solution/solution1.html",
+      "https://xft.cmbchina.com/index/subproduct/subproduct4.html",
+      "https://xft.cmbchina.com/index/subproduct/subproduct6.html",
+      "https://xft.cmbchina.com/index/subproduct/subproduct12.html",
+      "https://xft.cmbchina.com/index/subproduct/subproduct9.html",
+      "https://xft.cmbchina.com/index/subproduct/subproduct3.html",
+      "https://xft.cmbchina.com/index/subproduct/subproduct14.html",
+      "https://xft.cmbchina.com/index/subproduct/subproduct19.html",
+      "https://xft.cmbchina.com/index/subproduct/subproduct10.html",
+      "https://xft.cmbchina.com/index/subproduct/subproduct5.html",
+      "https://xft.cmbchina.com/zx",
+      "https://xft.cmbchina.com/index/six-modules/module5.html",
+      "https://xft.cmbchina.com/index/solution/solution9.html",
+      "https://xft.cmbchina.com/index/solution/solution13.html",
+      "https://xft.cmbchina.com/index/subproduct/subproduct8.html",
+      "https://xft.cmbchina.com/index/subproduct/subproduct7.html",
+      "https://xft.cmbchina.com/index/six-modules/module6.html",
+      "https://xft.cmbchina.com/index/subproduct/subproduct13.html",
+      "https://xft.cmbchina.com/index/subproduct/subproduct16.html",
+      "https://xft.cmbchina.com/index/six-modules/module4.html",
+      "https://xft.cmbchina.com/index/six-modules/module3.html",
+      "https://xft.cmbchina.com/index/subproduct/subproduct20.html",
+      "https://xft.cmbchina.com/index/subproduct/subproduct15.html",
+      "https://xft.cmbchina.com/index/six-modules/module1.html",
+      "https://xft.cmbchina.com/index/solution/solution3.html",
+      "https://xft.cmbchina.com/index/subproduct/subproduct1.html",
+      "https://xft.cmbchina.com/index/apply-center/apply-center.html",
+      "https://xft.cmbchina.com/index/subproduct/subproduct17.html",
+      "https://xft.cmbchina.com/index/subproduct/subproduct18.html",
+      "https://xft.cmbchina.com/index/customer-case-home/customer-case-home.html",
+      "https://xft.cmbchina.com/index/subproduct/subproduct2.html",
+      "https://xft.cmbchina.com/index/six-modules/module2.html"
+    ],
+    "login_url": [],
+    "count": 51
+  },
+  "yjf.cmbchina.com": {
+    "url": [
+      "https://yjf.cmbchina.com"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "zbt-o-web.paas.cmbchina.com": {
+    "url": [
+      "http://zbt-o-web.paas.cmbchina.com/"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "zhdjyun.paas.cmbchina.com": {
+    "url": [
+      "http://zhdjyun.paas.cmbchina.com"
+    ],
+    "login_url": [
+      "http://zhdjyun.paas.cmbchina.com"
+    ],
+    "count": 1
+  },
+  "zhdjyunauth.paas.cmbchina.com": {
+    "url": [
+      "https://zhdjyunauth.paas.cmbchina.com/UserLogin/ForgetPasswordStep?TenantHomeSubPath=",
+      "https://zhdjyunauth.paas.cmbchina.com/UserLogin/verifyCode"
+    ],
+    "login_url": [
+      "https://zhdjyunauth.paas.cmbchina.com/UserLogin/ForgetPasswordStep?TenantHomeSubPath="
+    ],
+    "count": 2
+  },
+  "ztb.paas.cmbchina.com": {
+    "url": [
+      "https://ztb.paas.cmbchina.com"
+    ],
+    "login_url": [],
+    "count": 1
+  }
+}
