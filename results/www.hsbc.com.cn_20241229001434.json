@@ -1,0 +1,183 @@
+{
+  "creditcards.hsbc.com.cn": {
+    "url": [
+      "https://creditcards.hsbc.com.cn/hfcoas/channel/card/patch"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "hsbc.com.cn": {
+    "url": [
+      "https://hsbc.com.cn/investment-platform/ui/fhc/startPws?targetFunction=home\u0026sourceType=pws"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "www.about.hsbc.com.cn": {
+    "url": [
+      "https://www.about.hsbc.com.cn/zh-cn"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "www.business.hsbc.com.cn": {
+    "url": [
+      "http://www.business.hsbc.com.cn/",
+      "https://www.business.hsbc.com.cn/zh-cn/whats-new"
+    ],
+    "login_url": [],
+    "count": 2
+  },
+  "www.hsbc.com.cn": {
+    "url": [
+      "https://www.hsbc.com.cn/",
+      "https://www.hsbc.com.cn/etc.clientlibs/dpws/clientlibs-public/clientlib-site/resources/manifest.json",
+      "https://www.hsbc.com.cn/credit-cards/faq/activation/",
+      "https://www.hsbc.com.cn/misc/personal-banking-services/",
+      "https://www.hsbc.com.cn/insurance/faq/",
+      "https://www.hsbc.com.cn/financial-wellbeing/build-emergency-savings/",
+      "https://www.hsbc.com.cn/credit-cards/products/sports-vip/",
+      "https://www.hsbc.com.cn/help/mandatory-info/hyperlink-policy/",
+      "https://www.hsbc.com.cn/investments/faq/",
+      "https://www.hsbc.com.cn/wealth/",
+      "https://www.hsbc.com.cn/credit-cards/information/desktop-mall/",
+      "https://www.hsbc.com.cn/credit-cards/rewards/redeem/",
+      "https://www.hsbc.com.cn/ways-to-bank/",
+      "https://www.hsbc.com.cn/premier/premier-elite/",
+      "https://www.hsbc.com.cn/credit-cards/guide/mobile-payment/",
+      "https://www.hsbc.com.cn/help/collections/",
+      "https://www.hsbc.com.cn/credit-cards/faq/",
+      "https://www.hsbc.com.cn/wealth/grow-money/",
+      "https://www.hsbc.com.cn/ways-to-bank/telephone/",
+      "https://www.hsbc.com.cn/insurance/",
+      "https://www.hsbc.com.cn/credit-cards/instalment/statement/",
+      "https://www.hsbc.com.cn/investments/wealth-management-platform/",
+      "https://www.hsbc.com.cn/credit-cards/instalment/additional-payment-plan/",
+      "https://www.hsbc.com.cn/help/contact/",
+      "https://www.hsbc.com.cn/financial-wellbeing/protect-what-matters/",
+      "https://www.hsbc.com.cn/mortgages/products/home/",
+      "https://www.hsbc.com.cn/credit-cards/offers/",
+      "https://www.hsbc.com.cn/credit-cards/instalment/",
+      "https://www.hsbc.com.cn/credit-cards/guide/terms-conditions/",
+      "https://www.hsbc.com.cn/credit-cards/faq/apply/",
+      "https://www.hsbc.com.cn/branch-finder/",
+      "https://www.hsbc.com.cn/credit-cards/instalment/cash/",
+      "https://www.hsbc.com.cn/credit-cards/cash-advance/",
+      "https://www.hsbc.com.cn/wealth/legacy/",
+      "https://www.hsbc.com.cn/credit-cards/rewards/mall/",
+      "https://www.hsbc.com.cn/ways-to-bank/online/",
+      "https://www.hsbc.com.cn/finfit/",
+      "https://www.hsbc.com.cn/credit-cards/rewards/",
+      "https://www.hsbc.com.cn/financial-wellbeing/how-to-stay-financially-healthy/",
+      "https://www.hsbc.com.cn/help/online-security/",
+      "https://www.hsbc.com.cn/ways-to-bank/wechat/",
+      "https://www.hsbc.com.cn/wealth/insights/",
+      "https://www.hsbc.com.cn/help/contact/branch-finder/",
+      "https://www.hsbc.com.cn/credit-cards/guide/",
+      "https://www.hsbc.com.cn/ways-to-bank/mobile-app/",
+      "https://www.hsbc.com.cn/credit-cards/products/premier-travel/",
+      "https://www.hsbc.com.cn/financial-wellbeing/",
+      "https://www.hsbc.com.cn/credit-cards/rewards/points/",
+      "https://www.hsbc.com.cn/help/mandatory-info/privacy-and-security/",
+      "https://www.hsbc.com.cn/help/customer-education/",
+      "https://www.hsbc.com.cn/investments/products/wmp/",
+      "https://www.hsbc.com.cn/investments/",
+      "https://www.hsbc.com.cn/wealth/retirement/",
+      "https://www.hsbc.com.cn/credit-cards/information/",
+      "https://www.hsbc.com.cn/insurance/products/health/",
+      "https://www.hsbc.com.cn/investments/products/3rd-party/local-unit-trust/",
+      "https://www.hsbc.com.cn/investments/products/structured-notes/",
+      "https://www.hsbc.com.cn/insurance/online/",
+      "https://www.hsbc.com.cn/investments/products/new-list/",
+      "https://www.hsbc.com.cn/wealth/education/",
+      "https://www.hsbc.com.cn/insurance/products/life/",
+      "https://www.hsbc.com.cn/wealth/family/",
+      "https://www.hsbc.com.cn/investments/products/3rd-party/mutual-recognition-of-funds/",
+      "https://www.hsbc.com.cn/credit-cards/instalment/transaction/",
+      "https://www.hsbc.com.cn/investments/products/structured/",
+      "https://www.hsbc.com.cn/help/forms/scholar-high-school/",
+      "https://www.hsbc.com.cn/video/",
+      "https://www.hsbc.com.cn/credit-cards/guide/repayment/",
+      "https://www.hsbc.com.cn/investments/products/currency/",
+      "https://www.hsbc.com.cn/international/education/video-senior/",
+      "https://www.hsbc.com.cn/international/education/scholar-program/",
+      "https://www.hsbc.com.cn/wealth/create-your-financial-plan/",
+      "https://www.hsbc.com.cn/help/fees-tariffs/",
+      "https://www.hsbc.com.cn/help/",
+      "https://www.hsbc.com.cn/banking/move-to-hsbc/online-idv-guidance/",
+      "https://www.hsbc.com.cn/international/expatriates/",
+      "https://www.hsbc.com.cn/international/products/education-payment/",
+      "https://www.hsbc.com.cn/rewards/redemption/",
+      "https://www.hsbc.com.cn/offers/mgm/",
+      "https://www.hsbc.com.cn/credit-cards/instalment/aloc/",
+      "https://www.hsbc.com.cn/help/faqs/",
+      "https://www.hsbc.com.cn/foreign-exchange/",
+      "https://www.hsbc.com.cn/international/education/during/",
+      "https://www.hsbc.com.cn/banking/move-to-hsbc/important-notice/",
+      "https://www.hsbc.com.cn/gba/wealth-connect/",
+      "https://www.hsbc.com.cn/etc.clientlibs/dpws/clientlibs-public/').concat(S.iosAppUrl,'",
+      "https://www.hsbc.com.cn/transfer-payments/",
+      "https://www.hsbc.com.cn/private-banking/",
+      "https://www.hsbc.com.cn/banking/move-to-hsbc/faq/",
+      "https://www.hsbc.com.cn/prime-member/",
+      "https://www.hsbc.com.cn/etc.clientlibs/dpws/clientlibs-public/').concat(S.androidAppUrl,'",
+      "https://www.hsbc.com.cn/fusion/",
+      "https://www.hsbc.com.cn/en-cn/",
+      "https://www.hsbc.com.cn/advance/",
+      "https://www.hsbc.com.cn/debit-cards/products/advance/",
+      "https://www.hsbc.com.cn/ways-to-bank/atm/",
+      "https://www.hsbc.com.cn/investments/products/offshore-bonds/",
+      "https://www.hsbc.com.cn/corporate-employee-privilege-scheme/",
+      "https://www.hsbc.com.cn/international/education/before/",
+      "https://www.hsbc.com.cn/deposits/products/",
+      "https://www.hsbc.com.cn/international/life-abroad/",
+      "https://www.hsbc.com.cn/debit-cards/products/premier/",
+      "https://www.hsbc.com.cn/premier/",
+      "https://www.hsbc.com.cn/credit-cards/faq/progress/",
+      "https://www.hsbc.com.cn/legal/cross-border-banking",
+      "https://www.hsbc.com.cn/wealth/innovation/",
+      "https://www.hsbc.com.cn/rewards/",
+      "https://www.hsbc.com.cn/international/travel/",
+      "https://www.hsbc.com.cn/deposits/",
+      "https://www.hsbc.com.cn/deposits/rate/",
+      "https://www.hsbc.com.cn/legal/cross-border-banking/",
+      "https://www.hsbc.com.cn/rural-bank/",
+      "https://www.hsbc.com.cn/investments/products/qdii/",
+      "https://www.hsbc.com.cn/international/",
+      "https://www.hsbc.com.cn/investments/products/esg/",
+      "https://www.hsbc.com.cn/help/mandatory-info/",
+      "https://www.hsbc.com.cn/transfer-payments/solutions/",
+      "https://www.hsbc.com.cn/international/education/",
+      "https://www.hsbc.com.cn/smo/user-guide/",
+      "https://www.hsbc.com.cn/zh-cn/security/registration/",
+      "https://www.hsbc.com.cn/yicun/",
+      "https://www.hsbc.com.cn/gba/",
+      "https://www.hsbc.com.cn/",
+      "https://www.hsbc.com.cn/debit-cards/",
+      "https://www.hsbc.com.cn/ways-to-bank/branch/",
+      "https://www.hsbc.com.cn/help/document-download/",
+      "https://www.hsbc.com.cn/credit-cards/guide/activation/"
+    ],
+    "login_url": [
+      "https://www.hsbc.com.cn/"
+    ],
+    "count": 127
+  },
+  "www.services.cn-banking.hsbc.com.cn": {
+    "url": [
+      "https://www.services.cn-banking.hsbc.com.cn/PublicContent/common/rate/zh/exchange-rates.html"
+    ],
+    "login_url": [],
+    "count": 1
+  },
+  "www.services.online-banking.hsbc.com.cn": {
+    "url": [
+      "https://www.services.online-banking.hsbc.com.cn/gpib",
+      "https://www.services.online-banking.hsbc.com.cn/gpib/channel/?idv_cmd=idv.Logoff\u0026nextPage=saasextention/ICSaaSExtRedirectionController/ADVANCE_LOGOUT_LANDING_PAGE"
+    ],
+    "login_url": [
+      "https://www.services.online-banking.hsbc.com.cn/gpib"
+    ],
+    "count": 2
+  }
+}
